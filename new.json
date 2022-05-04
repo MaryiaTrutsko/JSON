@@ -1,2 +1,8 @@
-{true
-}
+{
+    "firstName": "Maryia",
+    "lastName": "Trutsko",
+    "patronymic": "Aleksandrovna",
+    "age": 36,
+    "pets": 1,
+    "salary": 1500 
+    }
